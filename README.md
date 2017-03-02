@@ -1,5 +1,5 @@
 #HTML+CSS部分
-####1、CSS 隐藏元素的方法有哪些？（5种）----[参考文档](http://www.cnblogs.com/cythia/p/5981306.html)
+####1、CSS 隐藏元素的方法有哪些？（5种）
 >* 将opacity 设为 0;
 >* 将 visibility 设为 hidden;
 >* 将 display 设为 none ;
