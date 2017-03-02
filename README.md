@@ -1,41 +1,7 @@
-做笔记的地方--
--------------
-
->#您好
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Linny1637314031/Linny/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Linny1637314031/Linny/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#HTML+CSS部分
+####1、CSS 隐藏元素的方法有哪些？（5种）----[参考文档](http://www.cnblogs.com/cythia/p/5981306.html)
+>* 将opacity 设为 0;
+>* 将 visibility 设为 hidden;
+>* 将 display 设为 none ;
+>* 将 position 设为 absolute 然后将位置设到不可见区域;
+>* Clip-path,通过裁剪的方法实现隐藏;
