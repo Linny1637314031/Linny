@@ -19,6 +19,7 @@
 >* **4、使用table-cell，inline-block实现水平垂直居中：**适合高度宽度未知的情况
 >* **5、使用css3中的transform来时实现水平垂直居中：**适合高度宽度未知的情况
 >* **6、使用Flexbox来实现水平垂直居中:**适合宽度高度未知情况，但是要注意兼容性
+
 #####其他参考文档：
 >* [张鑫旭对CSS vertical-align的一些理解与认识](http://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/)
 >* [css居中那些事](http://blog.csdn.net/a7282787/article/details/51034440)
