@@ -24,3 +24,4 @@
 >* [张鑫旭对CSS vertical-align的一些理解与认识](http://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/)
 >* [css居中那些事](http://blog.csdn.net/a7282787/article/details/51034440)
 >* [ 利用vertical-align:middle实现在整个页面居中](http://blog.csdn.net/wyzlwyzl/article/details/17734077)
+>* [行内元素产生水平空隙是bug吗](http://www.cnblogs.com/PeunZhang/archive/2012/09/28/2706094.html)
